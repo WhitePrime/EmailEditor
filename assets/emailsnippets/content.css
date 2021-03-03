@@ -1,0 +1,20 @@
+﻿/* EDIT - Removed to keep light
+@import url("//fonts.googleapis.com/css?family=Roboto|Lato:300");  
+*/@import url("//fonts.googleapis.com/css?family=Open+Sans:300,400,600,800");
+
+body, table.body, /* EDIT - Removed to keep light - h1, h2, h3, h4, h5, h6 ,*/ p, td, th, a {
+  font-family: Arial, Helvetica, sans-serif; /* EDIT - Added Arial and Helvetica, removed Lato */
+  line-height: 24px; }
+   
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arial, Helvetica, sans-serif;  /* EDIT - Added Arial and Helvetica, removed Roboto */
+  margin: 12px 0; }
+  
+h1{font-size:40px;line-height:52px;}h2{font-size:30px;line-height:39px;}h3{font-size:26px;line-height:33px;}h4{font-size:24px;line-height:30px;}h5{font-size:20px}h6{font-size:18px}
+
+  
